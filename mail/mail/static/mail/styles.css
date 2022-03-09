@@ -1,0 +1,9 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-div {
+    
+    border-style: dashed;
+    background-color: aqua;
+}
